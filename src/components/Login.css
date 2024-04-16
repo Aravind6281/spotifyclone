@@ -1,0 +1,13 @@
+.track{
+    &_info{
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+    }
+    h4{
+        color: white;
+    }
+    h6{
+        color: #b3b3b3;
+    }
+}
